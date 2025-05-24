@@ -1,4 +1,4 @@
-from project import wordstate, man, check
+from hangman import wordstate, man, check
 
 
 def test_wordstate():
